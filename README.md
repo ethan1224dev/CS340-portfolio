@@ -4,7 +4,7 @@
 
 I focus on writing clean, modular code with clear separation of concerns. The CRUD Python module I developed encapsulates all database interactions into a class, making it easy to update or extend without affecting the rest of the application. By using consistent naming conventions, in-line comments, and exception handling, the module is both readable and resilient. The advantage of this approach is that the dashboard widgets can call the same CRUD methods regardless of the underlying database structure. In the future, this module could be reused for other projects that require basic database operations, or it could be expanded to include additional collections or more complex queries without rewriting the core logic.
 
-How do you approach a problem as a computer scientist?
+## How do you approach a problem as a computer scientist?
 
 I approach problems by first understanding the client's needs and then breaking the project into manageable components. For Grazioso Salvare, I started with the database and authentication, then built the CRUD module, and finally developed the dashboard interface. In the future, I would apply the same modular, iterative strategy: gather requirements and gradually add functionality while constantly testing each component.
 
